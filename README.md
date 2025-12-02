@@ -32,16 +32,13 @@ My focus is converting raw data into **actionable business intelligence and scal
 
 #### ⚙️ Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=sklearn" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://skillicons.dev/icons?i=postgresql" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=anaconda" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=python&theme=light" />
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=light" />
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=light" />
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" />
 </p>
 
 ---

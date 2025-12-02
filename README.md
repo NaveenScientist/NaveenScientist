@@ -39,6 +39,7 @@ My focus is converting raw data into **actionable business intelligence and scal
   <img src="https://skillicons.dev/icons?i=git&theme=light" />
   <img src="https://skillicons.dev/icons?i=github&theme=light" />
   <img src="https://skillicons.dev/icons?i=vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=powerbi" />
 </p>
 
 ---

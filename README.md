@@ -30,7 +30,7 @@ I love designing end-to-end AI pipelines — from **data preprocessing to deploy
 
 #### 🛠 Languages / Libraries / Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,postgresql,git,github,anaconda,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,git,github,anaconda,vscode,PowerBi" />
 </p>
 
 ---

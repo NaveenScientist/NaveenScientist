@@ -1,6 +1,6 @@
 <!-- Intro Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Naveen+Scientist;Data+Scientist+%7C+Artifical+Intelligence+Developer;Turning+Data+Into+Business+Decisions;Passionate+About+AI+and+Predictive+Analytics" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Naveen+Murugesan;Data+Scientist+%7C+Artifical+Intelligence+Developer;Turning+Data+Into+Business+Decisions;Passionate+About+AI+and+Predictive+Analytics" alt="Typing Animation" />
 </h1>
 
 <!-- Visitor Badge -->

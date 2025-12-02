@@ -3,10 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Naveen+Scientist;Data+Scientist+%7C+Machine+Learning+Engineer;Turning+Data+Into+Business+Decisions;Passionate+About+AI+and+Predictive+Analytics" alt="Typing Animation" />
 </h1>
 
-<!-- Visitor Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NaveenScientist&label=Profile%20Visitors&color=blueviolet&style=flat" />
-</p>
+
 
 <h3 align="center">Data Scientist & Artifical Intelligence Developer</h3>
 <p align="center">Building AI solutions that deliver real business value</p>

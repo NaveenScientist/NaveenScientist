@@ -14,7 +14,7 @@
 I’m a Data Scientist specializing in **machine learning, uplift modeling, time-series forecasting, and predictive analytics**.  
 My focus is converting raw data into **actionable business intelligence and scalable AI systems**.
 
-💡 *AI should not only be accurate — it should be useful, scalable, and profitable.*
+ *AI should not only be accurate — it should be useful, scalable, and profitable.*
 
 ---
 
@@ -83,7 +83,7 @@ My focus is converting raw data into **actionable business intelligence and scal
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaveenScientist&theme=tokyonight" />

@@ -88,8 +88,8 @@ My focus is converting raw data into **actionable business intelligence and scal
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaveenScientist&show_icons=true&theme=tokyonight&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenScientist&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=NaveenScientist&show_icons=true&theme=tokyonight&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=NaveenScientist&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 

@@ -57,7 +57,7 @@ My focus is converting raw data into **actionable business intelligence and scal
 
 ### 📄 Resume
 <p align="center">
-  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
+  <a href=https://drive.google.com/file/d/1keoR8I0GEZ1j6_PMI0YHMzy2jxsZ8K95/view?usp=drive_link target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-0078D4?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
 </p>

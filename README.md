@@ -36,11 +36,9 @@ My focus is converting raw data into **actionable business intelligence and scal
   <img src="https://skillicons.dev/icons?i=sklearn" />
   <img src="https://skillicons.dev/icons?i=tensorflow" />
   <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://skillicons.dev/icons?i=postgresql" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=anaconda" />
-  <img src="https://skillicons.dev/icons?i=linux" />
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" />
 </p>

@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=NaveenScientist&label=Profile%20Visitors&color=blueviolet&style=flat" />
 </p>
 
-<h3 align="center">Data Scientist & Machine Learning Engineer</h3>
+<h3 align="center">Data Scientist & Artifical Intelligence Developer</h3>
 <p align="center">Building AI solutions that deliver real business value</p>
 
 ---

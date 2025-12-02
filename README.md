@@ -13,7 +13,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 I’m a Data Scientist specializing in **machine learning, uplift modeling, time-series forecasting, and predictive analytics**.  
 My focus is converting raw data into **actionable business intelligence and scalable AI systems**.
 
@@ -21,9 +21,9 @@ My focus is converting raw data into **actionable business intelligence and scal
 
 ---
 
-### 🧠 Skills & Tech Expertise
+###  Skills & Tech Expertise
 
-#### 🧩 Core Domains
+####  Core Domains
 - Machine Learning & Statistical Modeling
 - Time-Series Forecasting (LSTM / ARIMA)
 - Causal Inference & Uplift Modeling
@@ -46,7 +46,7 @@ My focus is converting raw data into **actionable business intelligence and scal
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 | Project | Description |
 |--------|-------------|
 | **Stock Price Prediction (LSTM)** | Time-series forecasting of NIFTY50 stock movements using deep learning |
@@ -95,7 +95,7 @@ My focus is converting raw data into **actionable business intelligence and scal
 
 ---
 
-### ⭐ Closing Note
+###  Closing Note
 I enjoy transforming **complex datasets into strategic insights and scalable AI applications**.  
 If you're working on something exciting in ML/AI, I’d be glad to collaborate.
 

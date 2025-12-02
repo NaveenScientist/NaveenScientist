@@ -1,47 +1,61 @@
 <!-- Intro Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Naveen+Murugesan;Data+Scientist+%7C+Artificial+Intelligence+Developer;Turning+Data+Into+Business+Decisions;Passionate+About+AI+and+Predictive+Analytics" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Naveen+Scientist;Data+Scientist+%7C+Machine+Learning+Engineer;Turning+Data+Into+Business+Decisions;Passionate+About+AI+and+Predictive+Analytics" alt="Typing Animation" />
 </h1>
 
+<!-- Visitor Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NaveenScientist&label=Profile%20Visitors&color=blueviolet&style=flat" />
+</p>
 
-
-<h3 align="center">Data Scientist & Artifical Intelligence Developer</h3>
-<p align="center">Building AI solutions that deliver real business value</p>
+<h3 align="center">Data Scientist & Machine Learning Engineer | Business-Driven AI</h3>
+<p align="center">I build AI systems that create measurable business value, not just models.</p>
 
 ---
 
 ### 🚀 About Me
-I am a Data Scientist with hands-on experience in **machine learning, uplift modeling, deep learning (LSTM), and predictive analytics**.  
-I love designing end-to-end AI pipelines — from **data preprocessing to deployment**.
+I’m a Data Scientist specializing in **machine learning, uplift modeling, time-series forecasting, and predictive analytics**.  
+My focus is converting raw data into **actionable business intelligence and scalable AI systems**.
 
-💡 My belief: **AI should not just be accurate — it should be useful, scalable, and impactful.**
+💡 *AI should not only be accurate — it should be useful, scalable, and profitable.*
 
 ---
 
-### 🧠 Skills & Tech Competencies
-#### 📌 Domains
-- Predictive Analytics, Statistical Modeling
+### 🧠 Skills & Tech Expertise
+
+#### 🧩 Core Domains
+- Machine Learning & Statistical Modeling
 - Time-Series Forecasting (LSTM / ARIMA)
 - Causal Inference & Uplift Modeling
-- Model Deployment & Productionization
+- Predictive Analytics & Model Explainability
+- Model Deployment & Performance Optimization
 
-#### 🛠 Languages / Libraries / Tools
+#### ⚙️ Tools & Technologies
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,git,github,anaconda,vscode,PowerBi" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=anaconda" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
-| Project | Summary |
-|--------|---------|
-| **Stock Price Prediction (LSTM)** | Forecasting NIFTY50 prices with deep learning |
-| **Uplift Modeling – Advanced Model Interpretation** | AI-based treatment optimization for marketing |
-| **Insurance Predictions (Regression + Classification)** | Policy risk classification & pricing |
-| **Startup Funding Prediction** | Predicting funding amount for early-stage startups |
-| **California House Price Prediction** | Real-estate valuation using socio-economic factors |
+| Project | Description |
+|--------|-------------|
+| **Stock Price Prediction (LSTM)** | Time-series forecasting of NIFTY50 stock movements using deep learning |
+| **Uplift Modeling – Advanced Model Interpretation** | Causal inference for marketing treatment optimization |
+| **Insurance Predictions – REG & CLS Models** | ML-powered multi-outcome insurance risk modeling |
+| **Startup Funding Prediction** | Funding amount prediction using company & investor attributes |
+| **California House Price Prediction** | Real-estate price estimation using socio-economic variables |
 
-🔗 View all repositories: **https://github.com/NaveenScientist?tab=repositories**
+🔗 View all projects here → **https://github.com/NaveenScientist?tab=repositories**
 
 ---
 
@@ -52,7 +66,7 @@ I love designing end-to-end AI pipelines — from **data preprocessing to deploy
   </a>
 </p>
 
-> Replace `YOUR_RESUME_LINK_HERE` with your Google Drive / OneDrive resume link.
+> Replace **YOUR_RESUME_LINK_HERE** with your Google Drive / OneDrive resume link.
 
 ---
 
@@ -75,14 +89,14 @@ I love designing end-to-end AI pipelines — from **data preprocessing to deploy
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NaveenScientist&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenScientist&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NaveenScientist&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenScientist&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
 
 ### ⭐ Closing Note
-I enjoy transforming **complex datasets into clear strategies and scalable ML solutions**.  
-If you’re working on something exciting in ML/AI, I'd be happy to collaborate.
+I enjoy transforming **complex datasets into strategic insights and scalable AI applications**.  
+If you're working on something exciting in ML/AI, I’d be glad to collaborate.
 
 ---

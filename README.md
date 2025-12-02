@@ -63,7 +63,7 @@ My focus is converting raw data into **actionable business intelligence and scal
   </a>
 </p>
 
-> Replace **YOUR_RESUME_LINK_HERE** with your Google Drive / OneDrive resume link.
+
 
 ---
 

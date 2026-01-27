@@ -57,11 +57,11 @@ My focus is converting raw data into **actionable business intelligence and scal
 
 ### 📄 Resume
 <p align="center">
-  <a href="https://raw.githubusercontent.com/NaveenScientist/NaveenScientist/main/resume/Naveen Murugesan.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/NaveenScientist/Resume/main/Naveen%20Murugesan.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://raw.githubusercontent.com/NaveenScientist/NaveenScientist/main/resume/Naveen Murugesan.pdf" download>
+  <a href="https://raw.githubusercontent.com/NaveenScientist/Resume/main/Naveen%20Murugesan.pdf" download>
     <img src="https://img.shields.io/badge/Download%20PDF-4CAF50?style=for-the-badge&logo=download&logoColor=white" />
   </a>
 </p>
